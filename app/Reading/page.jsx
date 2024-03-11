@@ -18,7 +18,7 @@ const SetSelection = ({ onSelectSet }) => {
   return (
 
     <div>
-<div className="lg:flex lg:items-center lg:justify-center h-screen bg-[#e1e8f0] text-center">
+<div className="lg:hidden lg:items-center lg:justify-center h-screen bg-[#e1e8f0] text-center">
         <div className="p-8">
           <h1 className="text-gray-800 text-lg mb-10">Trang web hiện chưa cập nhật trên di động</h1>
           <Link href="/">
