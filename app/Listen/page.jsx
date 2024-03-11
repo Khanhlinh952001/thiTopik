@@ -172,7 +172,7 @@ const TestPage = () => {
   return (
 
     
-    <div className="bg-[#e1e8f0] h-full text-align sm:hidden">
+    <div className="bg-[#e1e8f0] h-full text-align ">
       <div className="flex">
         <div className="bg-white w-screen ml-[280px] mb-8 mr-4 text-center rounded">
           <h1 className="text-3xl font-bold mb-4 text-black pt-8">
